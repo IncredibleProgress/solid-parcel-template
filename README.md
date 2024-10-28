@@ -1,10 +1,10 @@
 # Template for projects with Solid-js & TailwindCss
 
-provides the root directory for starting a new app built with :
+Provides root directory for starting new project built with :
 
-* Typescript
-* Solid-js
-* Tailwindcss
-* Parcel
+  * Typescript
+  * Solid-js
+  * Tailwindcss
+  * Parcel
 
-it includes config files for building Solid-js apps usind Parcel instead of Vite
+It includes config files for building Solid-js apps using Parcel as bundler instead of Vite.
